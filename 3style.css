@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+h1{color: blueviolet;}
+
+p{
+    font-size: large;
+    font-style: oblique;
+    font-weight: 900;
+}
+.odd{color: blue;}
+.even{color: blueviolet;}

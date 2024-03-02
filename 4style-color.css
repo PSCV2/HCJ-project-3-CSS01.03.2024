@@ -1,0 +1,9 @@
+
+h2{font-weight: bold;}
+p{font-weight: bold;}
+
+body{background-color:greenyellow;}
+#p1{color: #800080}
+#p2{color: rgb(12, 70, 70);}
+#p3{color: hsl(300, 87%, 61%)}
+#p4{color: darkgoldenrod;}
